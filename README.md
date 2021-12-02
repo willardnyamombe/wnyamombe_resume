@@ -1,1 +1,1 @@
-This sis a resume for Willard Nyamombe.
+This is a resume for Willard Nyamombe.
