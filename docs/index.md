@@ -2,7 +2,7 @@
 layout: cv
 title: Willard Nyamombe's Resume
 ---
-# Willard Nyamombe
+# Will Nyamombe
 Computer Science Student at Brigham Young University-Idaho.
 
 <div id="webaddress">
